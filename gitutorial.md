@@ -24,3 +24,9 @@
 [GeekBrains](https://gb.ru)
 
 ! [Красоты Алтая](https://cdn.fishki.net/upload/post/2016/07/11/2008937/9137ce311b9b8a4fe7a0c3e94b5f31da.jpg)
+
+## Таблица
+| 1 | 2 | 3 |
+| :-| :-| :-|
+| 3 | 2 | 1 |
+| 5 | 4 | 7 |
